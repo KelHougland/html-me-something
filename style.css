@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+    image-orientation: left;
+    color: white;
+}
+
+footer {
+    color: white;
+}
+
+body {
+    background-color: black;
+    align-self: center;
+}
+
+main {
+    width: 700px;
+    align-self: center;
+    background-color: #B5E7FB;
+    border-radius: 2%;
+    border: 3px solid #8CD8F6;
+    text-align: center;
+    margin: 25px;
+}
+
+article {
+    width: 300px;
+    align-self: auto;
+    text-align: center;
+    border-radius: 4%;
+    background-color: rgb(249, 214, 243);
+    border: 2px solid rgb(249, 160, 234);
+    margin: 25px;
+}
+
+div {
+    width: 650px;
+    align-self: auto;
+    text-align: center;
+    border-radius: 4%;
+    background-color: rgb(249, 214, 243);
+    border: 2px solid rgb(249, 160, 234);
+    margin: 25px;
+}
+
