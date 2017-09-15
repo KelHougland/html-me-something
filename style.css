@@ -1,6 +1,6 @@
 header {
-    text-align: center;
     image-orientation: left;
+    text-align: center;
     color: white;
 }
 
@@ -26,6 +26,7 @@ main {
 }
 
 article {
+    flex-grow: 1;
     width: 300px;
     align-self: auto;
     text-align: center;
@@ -41,7 +42,7 @@ div {
 }
 
 div div {
-    width: 650px;
+    flex-grow: 2;
     align-self: auto;
     text-align: center;
     border-radius: 4%;
