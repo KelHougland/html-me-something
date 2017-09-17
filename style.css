@@ -36,6 +36,11 @@ article {
     margin: 25px;
 }
 
+article.purchasable {
+    border: 2px solid rgb(219, 142, 255);
+    background-color: rgb(237, 214, 249); 
+}
+
 div {
     flex-basis: 100%;
     text-align: center;
