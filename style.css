@@ -80,3 +80,11 @@ p {
 img {
     padding-top: 10px;
 }
+
+#brain {
+    color: purple;
+}
+
+#heart {
+    color: blue;
+}
